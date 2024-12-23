@@ -143,6 +143,5 @@ For detailed API documentation and endpoints, refer to the API Documentation.
 
 ---
 
-## About
-Study Notion is a remarkable EdTech platform, developed with modern technologies.
+
 
