@@ -104,7 +104,7 @@ For detailed API documentation and endpoints, refer to the API Documentation.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/prachinarde/repo.git
    ```
 2. Navigate to the project directory:
    ```bash
